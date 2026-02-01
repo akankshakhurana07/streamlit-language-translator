@@ -22,6 +22,6 @@ https://app-language-translator-bdqefmgbpbte57pdd9jkcg.streamlit.app/
 
 ---
 
-## 📂 Project Structure
+
 
 
